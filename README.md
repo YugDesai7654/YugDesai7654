@@ -8,7 +8,7 @@ I'm passionate about technology, innovation, and building impactful solutions. H
 ## 🚀 About Me
 
 - 💻 **Profession:** Third Year Undergraduate Student at Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat
-- 🌱 **Currently Learning:** Backend development
+- 🌱 **Currently Learning:** DevOps
 
 ---
 
