@@ -86,6 +86,43 @@ I'm passionate about technology, innovation, and building impactful solutions. H
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius:50%; border:2px solid #e1e4e8; margin:8px;"/>
         </a>
       </td>
+      <td align="center">
+        <a href="https://www.docker.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="border-radius:50%; border:2px solid #e1e4e8; margin:8px;"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://kubernetes.io/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50" style="border-radius:50%; border:2px solid #e1e4e8; margin:8px;"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://nginx.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" style="border-radius:50%; border:2px solid #e1e4e8; margin:8px;"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://prometheus.io/" target="_blank">
+          <img src="https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/images/prometheus-logo.svg" alt="Prometheus" width="50" height="50" style="background:#fff; border-radius:50%; border:2px solid #e1e4e8; margin:8px;"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://grafana.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="Grafana" width="50" height="50" style="background:#fff; border-radius:50%; border:2px solid #e1e4e8; margin:8px;"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.postman.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" style="background:#fff; border-radius:50%; border:2px solid #e1e4e8; margin:8px;" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://socket.io/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.IO" width="50" height="50" style="background:#fff; border-radius:50%; border:2px solid #e1e4e8; margin:8px;" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
@@ -103,16 +140,24 @@ Check out my profiles:
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.codechef.com/users/yugdesai7654" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" style="border-radius:50%; border:2px solid #e1e4e8; margin:8px;"/></a>
+        <a href="https://codeforces.com/profile/yugdesai7654" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40" style="margin:8px;"/>
+        </a>
       </td>
       <td align="center">
-        <a href="https://codeforces.com/profile/yugdesai7654" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" style="border-radius:50%; border:2px solid #e1e4e8; margin:8px;"/></a>
+        <a href="https://leetcode.com/u/yugdesai7654/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" style="margin:8px;"/>
+        </a>
       </td>
       <td align="center">
-        <a href="https://leetcode.com/u/yugdesai7654/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="border-radius:50%; border:2px solid #e1e4e8; margin:8px;"/></a>
+        <a href="https://www.geeksforgeeks.org/user/yugdesai7654" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40" width="40" style="margin:8px;"/>
+        </a>
       </td>
       <td align="center">
-        <a href="https://www.geeksforgeeks.org/user/yugdesai7654" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40" width="40" style="border-radius:50%; border:2px solid #e1e4e8; margin:8px;"/></a>
+        <a href="https://www.codechef.com/users/yugdesai7654" target="_blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" style="margin:8px;"/>
+        </a>
       </td>
     </tr>
   </table>
